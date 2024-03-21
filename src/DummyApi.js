@@ -8,6 +8,8 @@ import author2 from './images/author-2.png'
 import author3 from './images/author-3.png'
 import author4 from './images/author-4.png'
 import author5 from './images/author-5.png'
+
+
 export const postApi = [
     {
         name:"Self-observation is the first step of inner unfolding",
@@ -54,4 +56,44 @@ export const postApi = [
         userName:"Vaibhav",
         createdAt:"2-2-2023",
     }
+]
+
+
+export const LatestPostData = [
+    {
+        name:"Self-observation is the first step of inner unfolding",
+        postImg:img1,
+        discription:"Gosh jaguar ostrich quail one excited dear hello and bound and the and bland moral misheard roadrunner flapped lynx far that and jeepers giggled far and far",
+        category:"Application",
+        userImg:author1,
+        userName:"Pramod",
+        createdAt:"1-1-2024",
+    },
+    {
+        name:"Self-observation is the first step of inner unfolding",
+        postImg:img2,
+        discription:"Gosh jaguar ostrich quail one excited dear hello and bound and the and bland moral misheard roadrunner flapped lynx far that and jeepers giggled far and far",
+        category:"Backend",
+        userImg:author2,
+        userName:"Jay",
+        createdAt:"3-4-2024",
+    },
+    {
+        name:"Self-observation is the first step of inner unfolding",
+        postImg:img4,
+        discription:"Gosh jaguar ostrich quail one excited dear hello and bound and the and bland moral misheard roadrunner flapped lynx far that and jeepers giggled far and far",
+        category:"Backend",
+        userImg:author2,
+        userName:"Jay",
+        createdAt:"3-4-2024",
+    },
+    {
+        name:"Self-observation is the first step of inner unfolding",
+        postImg:img3,
+        discription:"Gosh jaguar ostrich quail one excited dear hello and bound and the and bland moral misheard roadrunner flapped lynx far that and jeepers giggled far and far",
+        category:"Backend",
+        userImg:author2,
+        userName:"Jay",
+        createdAt:"3-4-2024",
+    },
 ]

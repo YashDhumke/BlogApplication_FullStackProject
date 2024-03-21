@@ -4,6 +4,7 @@ import img2 from '../images/pattern-3.svg'
 import img3 from '../images/shadow-1.svg'
 import img4 from '../images//shadow-2.svg'
 import img5 from '../images/hero-banner.png'
+import img from '../images/homepage.png'
 
 const Main = () => {
   return (
@@ -41,7 +42,7 @@ const Main = () => {
 
           <div class="hero-banner">  
 
-            <img src={img5} width="327" height="490" alt="Wren Clark" class="w-100"/>
+            <img src={img} width="327" height="490" alt="Wren Clark" class="w-100"/>
 
             <img src={img1} width="27" height="26" alt="shape" class="shape shape-1"/>
 
