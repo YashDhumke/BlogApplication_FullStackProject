@@ -305,7 +305,7 @@ body.nav-active { overflow: hidden; }
 
 .card-wrapper {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   gap: 20px;
   align-items: center;
   font-size: var(--fontSize-6);
